@@ -1,6 +1,3 @@
-
-(Replace `Kartik Patil` before using.)
-
 ---
 
 # 🌟 **Hi, I'm Kartik Patil**

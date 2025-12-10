@@ -15,8 +15,7 @@
 
 ## 🎨 **About Me**
 
-I’m a developer who blends clean **UI/UX thinking** with strong **backend & AI engineering**.
-My work focuses on simple interfaces, fast experiences, and scalable systems.
+I’m an Information Science & Engineering student (2026) with strong skills in JavaScript, Node.js, Express, MongoDB, React, and cloud deployments. I build full-stack applications, AI-powered tools, and explore NLP, voice workflows, and real-time computer vision..
 
 ✨ *“Good design is invisible. Good code makes it possible.”*
 
@@ -105,24 +104,19 @@ My work focuses on simple interfaces, fast experiences, and scalable systems.
 
 ## 📊 **GitHub Insights**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=calm" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm&hide_border=true" height="160px"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=KARTIKPatil-44&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KARTIKPatil-44&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKPatil-44&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🤝 **Let’s Connect**
 
 <p align="left">
-  <a href="https://linkedin.com/">
+  <a www.linkedin.com/in/kartik-patil-2504121b7>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/KARTIKPatil-44">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -134,5 +128,3 @@ My work focuses on simple interfaces, fast experiences, and scalable systems.
 If you like my work, feel free to ⭐ **star my repositories** — it motivates me to build even better things.
 
 ---
-
-If you want an even more **aesthetic version** (glassmorphism, neon, minimal, dark mode, Apple-style, gradient-based), just tell me — I can create multiple themes!

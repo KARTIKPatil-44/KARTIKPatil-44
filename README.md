@@ -1,6 +1,5 @@
-\Here is a **beautiful, modern, UI/UX–inspired GitHub Profile README** — clean layout, soft gradients, minimal icons, card-style sections, and smooth animations.
-Perfect for a **portfolio-style developer identity**.
-(Replace `YOUR_USERNAME` before using.)
+
+(Replace `Kartik Patil` before using.)
 
 ---
 

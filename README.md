@@ -59,16 +59,9 @@ I’m an Information Science & Engineering student (2026) with strong skills in 
 
 ---
 
-### 🎤 **PrepWise – AI + Voice Interview Assistant**
+### Other Projects Coming Soon**
 
-**Tech:** Next.js 15, TypeScript, Firebase, Gemini
 
-* Polished UI with shadcn/ui
-* Voice agent via Vapi SDK
-* Multi-stage workflow design
-* AI-based interview feedback
-
----
 
 ## 🌈 **UI Moodboard**
 

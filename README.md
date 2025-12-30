@@ -70,26 +70,6 @@ I’m an Information Science & Engineering student (2026) with strong skills in 
 
 ---
 
-### ☁️ **StoreIt – Cloud File Management**
-
-**Tech:** HTML, CSS, JS, Node.js
-
-* Minimal, modern UI
-* File uploads, listing, actions
-* Cloud-ready backend
-
----
-
-### ✋ **Hand Gesture Recognition**
-
-**Tech:** Python, MediaPipe, OpenCV
-
-* Real-time gesture tracking
-* Visual feedback overlay
-* Action-based gesture prediction
-
----
-
 ## 🌈 **UI Moodboard**
 
 <p align="center">

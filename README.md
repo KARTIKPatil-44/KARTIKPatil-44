@@ -59,7 +59,7 @@ I’m an Information Science & Engineering student (2026) with strong skills in 
 
 ---
 
-### Other Projects Coming Soon**
+### More projects currently in development.
 
 
 

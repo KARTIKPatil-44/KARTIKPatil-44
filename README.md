@@ -1,4 +1,4 @@
-# 🌟 **Hi, I'm Kartik Patil**
+# 🌟 **Hi, I'm Kartik B Patil**
 ### **Full-Stack Developer | Backend Engineer | AI + Cloud Enthusiast**
 
 <p align="center">

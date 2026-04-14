@@ -103,7 +103,7 @@ kartik@dev:~$ echo $STATUS
   <a href="mailto:kartikpatilcs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://leetcode.com/KARTIKPatil-44">
+  <a href="https://leetcode.com/u/PatilKartik/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
 </p>

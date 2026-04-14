@@ -12,6 +12,7 @@
 ```bash
 kartik@dev:~$ whoami
 →  ISE Student @ Dayananda Sagar College of Engineering, Bengaluru (2026)
+→  Diploma in CS @ KLS Shri Vasantrao Potdar Polytechnic — CGPA: 9.12/10
 
 kartik@dev:~$ cat interests.txt
 →  [ Full-Stack Dev, AI Integrations, NLP, Real-time Systems, Voice Workflows ]
@@ -21,16 +22,6 @@ kartik@dev:~$ echo $STATUS
 ```
 
 > *"Good design is invisible. Good code makes it possible."*
-
----
-
-## 🟢 Currently Building
-
-| Status | Project | Stack |
-|--------|---------|-------|
-| 🟢 Active | **PrepWise** — AI-powered job interview platform with real-time emotion & prosody analysis via Hume AI EVI | TypeScript · Next.js · PostgreSQL · Drizzle ORM · Clerk |
-| 🟢 Active | **Farmer Assistant** — AgriTech platform with 15+ modules for crop advisory, disease diagnosis & marketplace | React 18 · Vite · Redux Toolkit · Firebase |
-| ✅ Shipped | **WonderLust** — Full-stack Airbnb-style travel booking platform with interactive maps | Node.js · Express · MongoDB · Mapbox · Passport.js |
 
 ---
 
@@ -58,34 +49,43 @@ kartik@dev:~$ echo $STATUS
 
 ---
 
-## 🏆 Achievements at a Glance
+## 📐 Engineering Principles
+
+- 🧩 Solved **150+ DSA problems** on LeetCode & GeeksForGeeks — earned **4 LeetCode badges** (arrays, recursion, trees, hashing)
+- 📐 Applied **SOLID principles** and design patterns (MVC, Observer, Factory, Singleton) in production projects
+- ⚡ **~60% MongoDB query optimization** — reduced response time significantly on WonderLust
+- 🔐 **98% reduction** in security vulnerabilities via end-to-end auth with Passport.js
+- ☁️ Deployed full-stack apps on **Render** and **MongoDB Atlas** with CI/CD workflows & GitHub Actions
+- 📜 Certified in **Advanced Web Development** and **DSA Specialization**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KARTIKPatil-44&theme=calm&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKPatil-44&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTIKPatil-44&show_icons=true&theme=calm&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KARTIKPatil-44&theme=calm&hide_border=true" />
 </p>
 
-| 🧩 DSA Problems | 🔗 API Endpoints Built | 👥 Concurrent Users | 🧱 UI Components |
-|:-:|:-:|:-:|:-:|
-| **100+** | **50+** | **100+** | **25+** |
-| LeetCode · GFG · 2 badges | RESTful · Joi validated | Render + MongoDB Atlas | Responsive · Accessible |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKPatil-44&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 
-## 📐 Engineering Principles
+## 🏆 Achievements at a Glance
 
-- Applied **SOLID principles** and design patterns (MVC, Observer, Factory, Singleton) in production
-- **60% MongoDB query optimization** on WonderLust for improved performance
-- **98% reduction** in security vulnerabilities via end-to-end auth with Passport.js
-- Certified in **Advanced Web Development** and **DSA Specialization**
-- Deployed full-stack apps on **Render** and **MongoDB Atlas** with CI/CD workflows
+| 🧩 DSA Problems | 🏅 LeetCode Badges | 🔗 API Endpoints | 👥 Concurrent Users | 🧱 UI Components |
+|:-:|:-:|:-:|:-:|:-:|
+| **150+** | **4** | **50+** | **100+** | **25+** |
+| LeetCode · GFG | Consistent performance | RESTful · Zod validated | Render + MongoDB Atlas | Responsive · Accessible |
 
 ---
 
-## 📊 GitHub Insights
+## 📈 Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=KARTIKPatil-44&theme=react-dark&hide_border=true&area=true)
 
@@ -102,6 +102,9 @@ kartik@dev:~$ echo $STATUS
   </a>
   <a href="mailto:kartikpatilcs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/KARTIKPatil-44">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
 </p>
 

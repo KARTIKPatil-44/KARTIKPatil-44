@@ -120,15 +120,14 @@ A comprehensive **BookMyShow-like movie booking platform** with integrated payme
 
 <div align="center">
 
-### Overall GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=KARTIKPatil-44&show_icons=true&theme=calm&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKPatil-44&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKPatil-44&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 ### Contribution Streak
-<img src="https://nirzak-streak-stats.vercel.app/?user=KARTIKPatil-44&theme=calm&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=KARTIKPatil-44&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
 
 ### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTIKPatil-44&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTIKPatil-44&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 

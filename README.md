@@ -2,7 +2,7 @@
 ### Full-Stack Developer · Backend Engineer · AI + Cloud Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5DCAA5&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Node.js+%7C+Payment+Integration;Building+Scalable+Systems+%F0%9F%9A%80;CineVerse+%7C+Stripe+%7C+Real-time+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5DCAA5&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Node.js+%7C+Building+Systems;Crafting+Scalable+Solutions+%F0%9F%9A%80;API+Design+%7C+Real-time+Systems+%7C+Cloud+Native" />
 </p>
 
 ---
@@ -22,53 +22,6 @@ kartik@dev:~$ echo $STATUS
 ```
 
 > *"Good design is invisible. Good code makes it possible."*
-
----
-
-## 🎬 Featured Project: **CineVerse**
-
-### Movie Booking Platform | Full-Stack | Production-Ready
-
-A comprehensive **BookMyShow-like movie booking platform** with integrated payment processing, real-time notifications, and microservices architecture.
-
-#### 🔗 **Live Demo & Repositories**
-- **Frontend (Live)**: [https://frontend-movie-booking-project.vercel.app](https://frontend-movie-booking-project.vercel.app)
-- **Frontend Repo**: [Frontend_MovieBooking_Project](https://github.com/KARTIKPatil-44/Frontend_MovieBooking_Project)
-- **Backend Repo**: [Backend_Project_Movie_Booking](https://github.com/KARTIKPatil-44/Backend_Project_Movie_Booking)
-- **Notifications Microservice**: [NotificationServices](https://github.com/KARTIKPatil-44/NotificationServices)
-
-#### 💡 **Key Features**
-- ✅ **Secure Payment Gateway**: Stripe integration with PCI compliance
-- ✅ **JWT + Role-Based Access**: 3-tier authorization (Customer, Admin, Client)
-- ✅ **Booking System**: Real-time seat selection & availability management
-- ✅ **Email Notifications**: Automated confirmations & reminders via Nodemailer
-- ✅ **Advanced UI/UX**: Animations, charts, responsive design with Tailwind CSS
-- ✅ **State Management**: Redux Toolkit for predictable state
-- ✅ **Real-time Data**: React Query for server state management
-- ✅ **Microservices**: Notification service with CRON job scheduling
-
-#### 🛠️ **Tech Stack**
-
-| Layer | Technologies |
-|-------|---|
-| **Frontend** | React 19 · Vite · Redux Toolkit · Tailwind CSS · Framer Motion |
-| **Backend** | Node.js · Express.js · MongoDB · Mongoose · JWT |
-| **Payments** | Stripe API · @stripe/react-stripe-js |
-| **Notifications** | Nodemailer · Node-Cron · Microservice Architecture |
-| **UI/UX** | Lucide React · React Icons · Recharts · Canvas Confetti · React Hot Toast |
-| **Deployment** | Vercel (Frontend) · MongoDB Atlas · RESTful API |
-
-#### 📊 **CineVerse Metrics**
-
-| Metric | Value |
-|--------|-------|
-| **API Endpoints** | 50+ RESTful endpoints |
-| **Data Models** | 5 (User, Movie, Theatre, Booking, Payment) |
-| **Authentication** | JWT + 3 role-based access levels |
-| **UI Components** | 30+ reusable React components |
-| **Performance** | ~60% optimized MongoDB queries |
-| **Code Quality** | SOLID principles · MVC pattern · Service layer |
-| **Deployment** | Live on Vercel with CI/CD |
 
 ---
 
@@ -104,14 +57,14 @@ A comprehensive **BookMyShow-like movie booking platform** with integrated payme
 ## 📐 Engineering Excellence
 
 - 🧩 Solved **150+ DSA problems** on LeetCode & GeeksForGeeks — earned **4 LeetCode badges** (arrays, recursion, trees, hashing)
-- 🏗️ **Architected CineVerse**: Full-stack movie booking platform with Stripe payments, JWT auth, and microservices
+- 🏗️ **Built multiple full-stack applications** with payment integration, microservices, and real-time features
 - 📐 Applied **SOLID principles** and design patterns (MVC, Observer, Factory, Singleton, Service Layer) in production projects
-- ⚡ **~60% MongoDB query optimization** — reduced response time significantly on CineVerse backend
-- 🔐 **Role-based access control**: Implemented 3-tier JWT authentication (Customer, Admin, Client) with Bcrypt hashing
-- 💳 **Payment integration**: Secure Stripe implementation with transaction tracking & status management
-- 📧 **Microservices architecture**: Built notification service with email delivery & CRON-based job scheduling
+- ⚡ **~60% MongoDB query optimization** — reduced response times and improved scalability across projects
+- 🔐 **Enterprise-grade authentication**: JWT + Role-based access control with Bcrypt hashing
+- 💳 **Payment integration expertise**: Secure Stripe implementation with transaction tracking
+- 📧 **Microservices architecture**: Built notification services with email delivery & CRON-based scheduling
 - ☁️ Deployed full-stack apps on **Vercel** and **MongoDB Atlas** with CI/CD workflows & GitHub Actions
-- 📊 **Advanced UI patterns**: Implemented animations (Framer Motion), charts (Recharts), and confetti effects
+- 📊 **Advanced UI patterns**: Implemented animations, charts, and real-time data visualization
 - 📜 Certified in **Advanced Web Development** and **DSA Specialization**
 
 ---
@@ -148,64 +101,87 @@ A comprehensive **BookMyShow-like movie booking platform** with integrated payme
       <sub><b>Arrays · Recursion<br/>Trees · Hashing</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/API_Endpoints-50+-purple?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Full_Stack_Apps-3+-purple?style=for-the-badge&logo=code" />
+      <br />
+      <sub><b>Production Ready</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/API_Endpoints-100+-green?style=for-the-badge" />
       <br />
       <sub><b>RESTful · Validated</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Stripe_Integration-Live-green?style=for-the-badge" />
-      <br />
-      <sub><b>CineVerse Payment</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/UI_Components-30+-pink?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/UI_Components-50+-pink?style=for-the-badge" />
       <br />
       <sub><b>Responsive · Animated</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Microservices-Notifications-orange?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Payment_Systems-Integrated-orange?style=for-the-badge" />
       <br />
-      <sub><b>Email · CRON Jobs</b></sub>
+      <sub><b>Stripe · Secure</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/MongoDB-Optimized-13AA52?style=for-the-badge&logo=mongodb" />
+      <img src="https://img.shields.io/badge/Microservices-Real_Time-13AA52?style=for-the-badge&logo=kubernetes" />
       <br />
-      <sub><b>~60% Query Speed</b></sub>
+      <sub><b>Email · Notifications</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Projects-Live-blue?style=for-the-badge&logo=vercel" />
+      <img src="https://img.shields.io/badge/Live_Deployments-Vercel-blue?style=for-the-badge&logo=vercel" />
       <br />
-      <sub><b>Vercel Deployed</b></sub>
+      <sub><b>CI/CD Ready</b></sub>
     </td>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/Code_Quality-SOLID-red?style=for-the-badge" />
       <br />
-      <sub><b>MVC · Service Layer</b></sub>
+      <sub><b>MVC · Design Patterns</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Auth-JWT_RoleBase-cyan?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Security-Enterprise-cyan?style=for-the-badge" />
       <br />
-      <sub><b>3 Tier Access</b></sub>
+      <sub><b>JWT · OAuth Ready</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Performance Metrics
+## 📈 Core Competencies
 
 <div align="center">
 
-| Metric | Achievement | Details |
+| Competency | Expertise | Details |
 |--------|---|---|
-| **Code Quality** | ⭐⭐⭐⭐⭐ | SOLID Principles, Design Patterns, Clean Code |
-| **Performance** | ⭐⭐⭐⭐⭐ | 60% Query Optimization, Fast Page Load (React Query) |
-| **Security** | ⭐⭐⭐⭐⭐ | JWT Auth, Bcrypt, Role-Based Access, PCI Compliance |
-| **Scalability** | ⭐⭐⭐⭐⭐ | Microservices, MongoDB, Vercel Deployment |
-| **Testing & CI/CD** | ⭐⭐⭐⭐ | GitHub Actions, Automated Workflows |
-| **Documentation** | ⭐⭐⭐⭐⭐ | Comprehensive READMEs, API Docs, Code Comments |
+| **Frontend Development** | ⭐⭐⭐⭐⭐ | React, Vite, Tailwind, Redux, Real-time UI |
+| **Backend Architecture** | ⭐⭐⭐⭐⭐ | Node.js, Express, MongoDB, Microservices, REST APIs |
+| **Database Design** | ⭐⭐⭐⭐⭐ | MongoDB, PostgreSQL, Query Optimization, Indexing |
+| **Payment Systems** | ⭐⭐⭐⭐⭐ | Stripe Integration, PCI Compliance, Transaction Management |
+| **Authentication & Security** | ⭐⭐⭐⭐⭐ | JWT, OAuth, Role-Based Access, Bcrypt, Secure Practices |
+| **System Design** | ⭐⭐⭐⭐ | SOLID Principles, Design Patterns, Scalable Architecture |
+| **DevOps & Deployment** | ⭐⭐⭐⭐ | Vercel, MongoDB Atlas, GitHub Actions, CI/CD Pipelines |
+| **Real-time Systems** | ⭐⭐⭐⭐ | WebSockets Ready, Event-Driven Architecture, CRON Jobs |
+
+</div>
+
+---
+
+## 🚀 Project Portfolio
+
+<div align="center">
+
+### Multi-Project Experience
+
+| Category | Experience |
+|----------|---|
+| **Full-Stack Applications** | 3+ production-ready projects with complete MERN stack |
+| **API Development** | 100+ RESTful endpoints across multiple services |
+| **Payment Integration** | Stripe integration with secure transaction handling |
+| **Microservices** | Real-time notification service with email & scheduling |
+| **UI/UX Implementation** | 50+ reusable components with animations & responsiveness |
+| **Database Optimization** | ~60% query performance improvement across projects |
+| **Security Implementation** | JWT auth, role-based access, encryption, best practices |
+| **Cloud Deployment** | Multi-app deployment on Vercel with MongoDB Atlas |
 
 </div>
 
@@ -221,15 +197,43 @@ A comprehensive **BookMyShow-like movie booking platform** with integrated payme
 ╠════════════════════════════════════════════════════════╣
 ║  🧩 DSA Problems Solved        →  150+                  ║
 ║  🏅 LeetCode Badges             →  4                    ║
-║  🔗 Total API Endpoints         →  50+                  ║
-║  💳 Payment Gateway Integrated  →  Stripe ✅            ║
-║  📧 Microservices Built         →  Notification Service ║
-║  🎨 UI Components Created       →  30+                  ║
-║  🚀 Live Projects              →  CineVerse (Vercel)   ║
-║  📱 Responsive Design          →  Mobile First          ║
-║  🔐 Authentication Methods     →  JWT + OAuth Ready     ║
-║  ⚡ Query Performance          →  ~60% Optimized        ║
+║  🔗 Total API Endpoints         →  100+                 ║
+║  💳 Payment Systems             →  Stripe Integrated    ║
+║  📧 Microservices               →  Real-time Notifications║
+║  🎨 UI Components               →  50+                  ║
+║  🚀 Full-Stack Apps             →  3+ Production Ready  ║
+║  📱 Responsive Design            →  Mobile First         ║
+║  🔐 Authentication Methods       →  JWT + OAuth Ready    ║
+║  ⚡ Query Optimization           →  ~60% Performance      ║
+║  ☁️ Cloud Deployments           →  Vercel + MongoDB Atlas║
+║  📊 Code Quality                →  SOLID + Design Pattern║
 ╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 💻 Featured Technologies in Production
+
+<div align="center">
+
+### Frontend Ecosystem
+```
+React 19 → Vite → Redux Toolkit → Tailwind CSS → Framer Motion
+Lucide Icons → React Query → React Router → Recharts → Stripe UI
+```
+
+### Backend Ecosystem
+```
+Node.js → Express.js → MongoDB → Mongoose → JWT Authentication
+Bcrypt → Nodemailer → Node-Cron → CORS → Body Parser
+```
+
+### Architecture Patterns
+```
+MVC Pattern → Service Layer → Repository Pattern → Middleware
+SOLID Principles → Design Patterns → Microservices → REST APIs
 ```
 
 </div>
@@ -250,9 +254,6 @@ A comprehensive **BookMyShow-like movie booking platform** with integrated payme
   </a>
   <a href="https://leetcode.com/u/PatilKartik/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-  <a href="https://frontend-movie-booking-project.vercel.app">
-    <img src="https://img.shields.io/badge/CineVerse-Live-blue?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 

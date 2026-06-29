@@ -11,8 +11,8 @@
 
 ```bash
 kartik@dev:~$ whoami
-→  ISE Student @ Dayananda Sagar College of Engineering, Bengaluru (2026)
-→  Diploma in CS @ KLS Shri Vasantrao Potdar Polytechnic — CGPA: 9.12/10
+→  ISE Student @ Dayananda Sagar College of Engineering, Bengaluru — CGPA: 8.19  (2026)
+→  Diploma in CS @ KLS Shri Vasantrao Potdar Polytechnic — CGPA: 9.12/10 (2023)
 
 kartik@dev:~$ cat interests.txt
 →  [ Full-Stack Dev, Payment Systems, Real-time Notifications, AI Integrations, Scalable Architecture ]
